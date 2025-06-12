@@ -1,9 +1,4 @@
-# Codsoft-Task2
-project submission task at codsoft<br>
-
-LEVEL 1 TASK 2 (Portfolio): <br>
-
-Creating a personal portfolio using CSS and HTML is a popular beginner web development project.<br>
+<h1>Creating a personal portfolio using CSS and HTML is a popular beginner web development project.</h1><br>
 Header Section: Add your name or a logo at the top.<br>
 Optionally, include a brief introduction or tagline.<br>
 About Section: Insert an image of yourself.<br>
